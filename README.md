@@ -12,7 +12,7 @@
 Установить composer
 Установить через composer Laravel
 Импортировать базу faq.sql
-Клонировать проект https://github.com/kostya-nik-a/Laravel_Diplom.git
+Клонировать проект https://github.com/sun-way/phpdiplom
 Выполнить настроки подключения к БД в файле .env
 Запустить php artisan migrate
 
